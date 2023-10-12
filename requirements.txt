@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+Scikit-learn
+LabelEncoder
+pickle
